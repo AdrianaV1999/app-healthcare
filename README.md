@@ -1,6 +1,6 @@
 ﻿# Healthcare App
 
-The backend of the Healthcare app with all patient and doctor data, built with Laravel. It also includes functionality for scheduling appointments, confirming appointments, and managing patient visits.
+The backend of the Healthcare app with all patient and doctor data, built with Laravel. It also includes functionality for scheduling appointments, confirming appointments and managing patient visits.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
